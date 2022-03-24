@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "service",
+      "type": "com.entelgy.retotecnico.service.PersonService",
+      "sourceType": "com.entelgy.retotecnico.service.PersonService"
+    }
+  ],
+  "properties": [
+    {
+      "name": "service.url",
+      "type": "java.lang.String",
+      "sourceType": "com.entelgy.retotecnico.service.PersonService"
+    }
+  ],
+  "hints": []
+}
